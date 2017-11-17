@@ -1,7 +1,8 @@
 # lein-clojure-lambda-template
 A leiningen template for AWS Lambda in clojure
 
-[![Clojars Project](https://clojars.org/clojure-lambda/lein-template/latest-version.svg)](https://clojars.org/bansd/clojure-lambda/lein-template)
+[![Clojars Project](https://clojars.org/clojure-lambda/lein-template/latest-version.svg)](
+https://clojars.org/clojure-lambda/lein-template)
 
 # Requirments 
 Requires Leiningen version 2.5.3+
