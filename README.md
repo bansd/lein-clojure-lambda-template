@@ -16,7 +16,7 @@ lein new clojure-lambda hello-world
 
 In AWS Lambda console, select `Java` runtime and add `hello_world.core::handler` as handler function.
 
-Use below to convert LinkedHashedMap to convert to clojure map when passed JSON as event.
+Use below to convert LinkedHashedMap to convert to clojure map when input is passed as JSON.
 ```clojure
 (->cljmap java-Map)
 ```
