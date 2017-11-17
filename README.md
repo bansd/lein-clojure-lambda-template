@@ -21,7 +21,7 @@ Use below to convert LinkedHashedMap to convert to clojure map when input is pas
 (->cljmap java-Map)
 ```
 
-If String is passed as test event, use `String` instead of `java.util.Map`
+If String is passed as input event, use `String` instead of `java.util.Map`
 ```clojure
 :methods [^:static [handler [String] String]]
 ```
